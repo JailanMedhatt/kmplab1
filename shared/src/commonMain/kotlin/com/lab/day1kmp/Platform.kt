@@ -1,4 +1,4 @@
-package com.jets.day1kmp
+package com.lab.day1kmp
 
 expect class Platform {
     val osName: String

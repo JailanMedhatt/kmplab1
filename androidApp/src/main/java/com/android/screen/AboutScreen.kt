@@ -1,4 +1,4 @@
-package com.jets.day1kmp.android.screen
+package com.android.screen
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
@@ -18,7 +18,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
-import com.jets.day1kmp.Platform
+import com.lab.day1kmp.Platform
 
 @Composable
 fun AboutScreen(

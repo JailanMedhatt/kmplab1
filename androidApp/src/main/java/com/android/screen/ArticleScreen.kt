@@ -1,4 +1,4 @@
-package com.jets.day1kmp.android.screen
+package com.android.screen
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -30,8 +30,8 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import coil.compose.AsyncImage
-import com.jets.day1kmp.articles.Article
-import com.jets.day1kmp.articles.ArticleViewModel
+import com.lab.day1kmp.articles.Article
+import com.lab.day1kmp.articles.ArticleViewModel
 
 @Composable
 fun ArticlesScreen(

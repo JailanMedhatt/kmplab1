@@ -1,4 +1,4 @@
-package com.jets.day1kmp.android
+package com.android
 
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
@@ -9,10 +9,10 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.jets.day1kmp.android.screen.AboutScreen
-import com.jets.day1kmp.android.screen.ArticlesScreen
-import com.jets.day1kmp.android.screen.Screens
-import com.jets.day1kmp.articles.ArticleViewModel
+import com.android.screen.AboutScreen
+import com.android.screen.ArticlesScreen
+import com.android.screen.Screens
+import com.lab.day1kmp.articles.ArticleViewModel
 
 @Composable
 fun AppScaffold(articlesViewModel: ArticleViewModel) {

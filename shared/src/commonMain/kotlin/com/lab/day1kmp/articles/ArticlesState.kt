@@ -1,4 +1,4 @@
-package com.jets.day1kmp.articles
+package com.lab.day1kmp.articles
 
 data class ArticlesState (
     val articles: List<Article> = listOf(),

@@ -1,4 +1,4 @@
-package com.jets.day1kmp
+package com.lab.day1kmp
 
 import android.content.res.Resources
 import android.os.Build

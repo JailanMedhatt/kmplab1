@@ -14,6 +14,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MAD45_KMP"
+rootProject.name = "Kmp_Lab1"
 include(":androidApp")
 include(":shared")

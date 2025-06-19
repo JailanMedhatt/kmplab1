@@ -1,4 +1,4 @@
-package com.jets.day1kmp.android.screen
+package com.android.screen
 
 enum class Screens(val route: String) {
     ARTICLES("articles"),

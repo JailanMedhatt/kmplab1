@@ -1,4 +1,4 @@
-package com.jets.day1kmp.android
+package com.android
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.shape.RoundedCornerShape
